@@ -69,7 +69,6 @@ function init2() {
         break;
         default:
       }
-
 /*
       if(!isOkAdress){
         obj.options = {"iconColor": "#ff0000"};
