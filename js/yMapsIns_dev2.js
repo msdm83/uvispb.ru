@@ -70,7 +70,7 @@ function init2() {
         default:
       }
 
-
+/*
       if(!isOkAdress){
         obj.options = {"iconColor": "#ff0000"};
         obj.properties.balloonContentHeader = "";
@@ -83,7 +83,7 @@ function init2() {
       }
       if(comment){
         obj.properties.balloonContentBody += "<span style='color:#999; font-zise:11px'>"+comment+"</span>";
-      }
+      }*/
       pointStock.push(obj);
       adressNumbers--;
     },
